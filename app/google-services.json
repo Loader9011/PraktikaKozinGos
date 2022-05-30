@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232597040887",
+    "firebase_url": "https://gosydarstvo-praktkozin-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gosydarstvo-praktkozin",
+    "storage_bucket": "gosydarstvo-praktkozin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232597040887:android:813a11c897205b7dde6df2",
+        "android_client_info": {
+          "package_name": "com.example.praktikakozin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232597040887-2a8dfhchosd02k089smn97kgkjet3slh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBReFhKC7M83SVmh_Cdi7rPz5SJr4QOBzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232597040887-2a8dfhchosd02k089smn97kgkjet3slh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
